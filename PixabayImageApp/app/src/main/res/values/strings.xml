@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pixabay Image App</string>
+    <string name="image_content_desc">Image Thumbnail</string>
+    <string name="image_full_content_desc">Full-Size Image</string>
+    <string name="pixabay_api_key">47633848-7e19033b5b0a6c16cbd9ce770</string>
+    <string name="todo">TODO</string>
+    <string name="todo_">TODO</string>
+</resources>
